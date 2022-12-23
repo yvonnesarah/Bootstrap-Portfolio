@@ -66,14 +66,10 @@
 /* Work Card
 /*******************************************/
 
-  .card{
-    display: flex;
-    justify-content: space-between;
-    float: right;
-    align-items: center;
-    padding: 0 15px 0 0 ;
+  .card {
+    margin: 20px;
   }
- 
+  
    /******************************************
 /* LINK/BUTTON STYLES
 /*******************************************/
