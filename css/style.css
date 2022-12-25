@@ -149,3 +149,19 @@ font-weight: bold;
  footer{
   background: #FFA500;
  }
+
+ /******************************************
+/Media Query 
+/*******************************************/
+
+@media only screen and (max-width: 1000px) {
+
+.contact-info{
+  flex-direction: column;
+}
+.contact-card{
+width: 100%;
+max-width: 400px;
+margin: 40px 0;
+}
+}
