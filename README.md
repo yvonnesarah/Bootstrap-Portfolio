@@ -1,8 +1,9 @@
 # Bootstrap-Portfolio
 
 ## Description
-Portfolio for Yvonne Adedeji - Front-End Web Developer.
-Recreate my personal portfolio using Bootstrap to showcase my projects. 
+The Bootstrap Portfolio Web App Project is a responsive and modern web application designed to showcase your work, skills etc. Built using HTML, CSS and Bootstrap, this portfolio template provides an elegant and professional platform to present your projects.
+
+Portfolio for Yvonne Adedeji - Front-End Web Developer. Recreate my personal portfolio using Bootstrap to showcase my projects. 
 
 ## Prerequisites
 N/A
